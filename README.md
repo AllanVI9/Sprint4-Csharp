@@ -2,6 +2,7 @@
 
 API REST para gerenciamento de livros com ASP.NET Core.
 
+<img width="1301" height="896" alt="GetUsers" src="https://github.com/user-attachments/assets/5948cae2-9bae-4556-ae43-c6e94ce2f9ee" />
 
 <img width="1074" height="920" alt="criandoUser" src="https://github.com/user-attachments/assets/2567125d-e918-4fb8-95fe-8aceeee207f1" />
 
@@ -64,6 +65,7 @@ Tire o `id` do body para funcionar o post
 
 
 Integração com \[Google Books API](https://developers.google.com/books/docs/v1/using)
+
 
 
 
