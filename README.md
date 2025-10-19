@@ -67,6 +67,12 @@ Tire o `id` do body para funcionar o post
 Integração com \[Google Books API](https://developers.google.com/books/docs/v1/using)
 
 
+## Diagrama:
+
+<img width="420" height="572" alt="Diagram" src="https://github.com/user-attachments/assets/1f86b907-169b-4604-8e3f-091827dab33e" />
+
+
+
 
 
 
