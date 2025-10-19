@@ -17,8 +17,11 @@ builder.Services.AddCors(options =>
         });
 });
 
+var connString = Environment.GetEnvironmentVariable("SQLITE_CONN_STRING") ?? "Data Source=MinhaBiblioteca.db";
+
 builder.Services.AddDbContext<BibliotecaContext>(options =>
-    options.UseSqlite("Data Source=biblioteca.db"));
+    // options.UseSqlite("Data Source=biblioteca.db"));
+    options.UseSqlite(connString));
 
 builder.Services.AddControllers();
 builder.Services.AddScoped<LivroService>();
