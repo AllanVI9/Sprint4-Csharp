@@ -55,7 +55,7 @@ Após rodar o projeto, abrir o swagger no caminho: http://localhost:5128/swagger
 
 Disponível em: `/swagger`
 
-Tire o `id` do body para funcionar
+Tire o `id` do body para funcionar o post
 
 
 
@@ -64,6 +64,7 @@ Tire o `id` do body para funcionar
 
 
 Integração com \[Google Books API](https://developers.google.com/books/docs/v1/using)
+
 
 
 
