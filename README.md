@@ -1,12 +1,21 @@
-\# Biblioteca API
-
-
+# Biblioteca API
 
 API REST para gerenciamento de livros com ASP.NET Core.
 
+## Membros do grupo:
+
+\- Allan Von Ivanov - RM98705 
+
+\- Bianca Carvalho Dancs Firsoff - RM551645
+
+\- João Rodrigo Solano Nogueira - RM551319
+
+\- Giuliano Romaneto Marques - RM99694
+
+\- Arthur Candido de Abreu - RM98283
 
 
-\## Funcionalidades
+## Funcionalidades
 
 
 
@@ -20,7 +29,7 @@ API REST para gerenciamento de livros com ASP.NET Core.
 
 
 
-\## Como rodar
+## Como rodar
 
 
 
@@ -32,16 +41,19 @@ API REST para gerenciamento de livros com ASP.NET Core.
 
 
 
-\## Documentação Swagger
+## Documentação Swagger
 
-
+Após rodar o projeto, abrir o swagger no caminho: http://localhost:5128/swagger/index.html
 
 Disponível em: `/swagger`
 
+Tire o `id` do body para funcionar
 
 
-\## API externa
+
+## API externa
 
 
 
 Integração com \[Google Books API](https://developers.google.com/books/docs/v1/using)
+
